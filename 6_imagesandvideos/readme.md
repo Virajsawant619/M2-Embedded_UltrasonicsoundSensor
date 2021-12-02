@@ -7,6 +7,6 @@ Output:1
 
 
 ```bash
-Output:3
+Output:2
 ```
 ![out3](https://user-images.githubusercontent.com/94118726/144073364-fbec5d54-7aa8-49b3-8a69-fa51d0d2b5e5.jpg)
