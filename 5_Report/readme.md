@@ -97,9 +97,9 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 |           |• Trigger Input Pulse width: 10uS TTL pulse.  |
 | LLR_1_HRL1|• Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water.  |
 
-# Structural Diagram
+# Structural Diagram 1
 
-![ultra2](https://user-images.githubusercontent.com/94118726/143897055-31eeff08-deec-49d0-bc72-55f07e68ca4e.JPG)
+![how-ultrasonic-sensor-works](https://user-images.githubusercontent.com/94476845/144423749-68ec5042-bc4d-4539-a08d-b523777e4146.png)
 
 # Block  Diagram
 
