@@ -7,13 +7,27 @@
 The project as the name suggests is based on Ultrasonic sensors.Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing.
  Our ultrasonic sensors, like many others, use a single transducer to send a pulse and to receive the echo.  The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
 
-# Research:-
+## Research:-
 
 The requirements for the program to run or for the code to be in effect are basic and  a great solution for the detection of clear objects.
 
-# Features,Hardware and Software:-
+## High Level Requirements
 
-![App Screenshot] (C:\Users\patil\OneDrive\Documents\VIRAJ SAWANT\LLTS)
+| ID             | Description                                                           |
+| ----------------- | ------------------------------------------------------------------ |
+| HLR1 | Used to avoid and detect obstacles with robots like Electronic robot, obstacle avoid robot, etc.  |
+| HLR2 |Used to measure the distance within a wide range of 2cm to 400cm   |
+| HLR3 |Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water   |
+
+## Low Level Requirements
+
+| ID             | Description                                                           |
+| ----------------- | ------------------------------------------------------------------ |
+|           |• Power Supply :+5V DC.  |
+| LLR_1_HLR1|• Measuring Angle: 30 degree.  |                                                                                                                                                  |
+|           |• Trigger Input Pulse width: 10uS TTL pulse.  |
+| LLR_1_HRL1|• Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water.  |
+
 
 ## a) HARDWARE :-
 #### 1] SimulIDE:
@@ -66,27 +80,16 @@ we have made a setup based on a microcontroller in which real time distance is s
 - # Where:
 It measures accurate distance using a non-contact technology - A technology that involves no physical contact between sensor and object.
 
--3 When:
+- # When:
 In 1959, Satomura created an ultrasonic flowmeter that used doppler technology.
 
--# Why:
+- # Why:
 I am Developing this project for easily measure the distance between objects 
 
 - # How:
 By using Atmega328 an display  an ultrasonic sensor mainly used to determine the distance of the target object. 
 
 
-# Detail requirements :-
-
-
-
-## High Level Requirements
-
-| ID             | Description                                                           |
-| ----------------- | ------------------------------------------------------------------ |
-| HLR1 | Used to avoid and detect obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc.  |
-| HLR2 |Used to measure the distance within a wide range of 2cm to 400cm   |
-| HLR3 |Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water   |
 
 ## Low Level Requirements
 
