@@ -214,10 +214,10 @@ checked and rechecked to make sure the angles determine the correct obstacle.
 
 | Average Speed(m/s)                    | 0.8                           | 1.5    | 2.0    |
 | ----------------- | -----------------------|-------------|---------|
-| Mean RMS error (cm)* | 19.4  |12.7  |10.2|
-|SD** |11.2   |14.3  | 13.4|
+| Mean RMS error (cm)* | 18.9  |12.5  |10.3|
+|SD** |12.1   |14.6  | 13.3|
 |Sensing error (%) | 5.0 | 1.6| 1.0|
-|----------------------------------------------------------|
+
 
 
 #### RMS error : Root mean square error between actual and sensing distance.
