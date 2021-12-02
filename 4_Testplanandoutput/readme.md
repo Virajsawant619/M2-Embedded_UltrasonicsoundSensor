@@ -26,12 +26,26 @@ checked and rechecked to make sure the angles determine the correct obstacle.
 
 | Average Speed(m/s)                    | 0.8                           | 1.5    | 2.0    |
 | ----------------- | -----------------------|-------------|---------|
-| Mean RMS error (cm)* | 19.4  |12.7  |10.2|
-|SD** |11.2   |14.3  | 13.4|
+| Mean RMS error (cm)* | 18.9  |12.5  |10.3|
+|SD** |12.1   |14.6  | 13.3|
 |Sensing error (%) | 5.0 | 1.6| 1.0|
-|----------------------------------------------------------|
+
 
 
 #### RMS error : Root mean square error between actual and sensing distance.
 #### SD** : Standard deviation of the RMS errors.
+
+# Output
+```bash
+Output:1
+```
+![out1](https://user-images.githubusercontent.com/94118726/144073307-d3856545-054c-4a28-afbb-3cef3479f6b4.JPG)
+
+
+```bash
+
+
+Output:2
+```
+![out3](https://user-images.githubusercontent.com/94118726/144073364-fbec5d54-7aa8-49b3-8a69-fa51d0d2b5e5.jpg)
 
